@@ -1,0 +1,11 @@
+jupyterlab
+pandas
+numpy
+
+seaborn
+matplotlib
+
+scikit-learn
+plotly
+plotly-express
+streamlit
