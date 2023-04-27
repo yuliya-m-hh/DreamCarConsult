@@ -1,0 +1,174 @@
+Car category,Car Model,First registration,Car age,"Average price, €","Estimated value loss, %"
+Compact SUV,Audi Q3,2023,0.0,46505.69,0.0
+Compact SUV,Audi Q3,2022,1.0,38732.3,16.71
+Compact SUV,Audi Q3,2021,2.0,40202.74,13.55
+Compact SUV,Audi Q3,2020,3.0,37057.65,20.32
+Compact SUV,Audi Q3,2019,4.0,32262.08,30.63
+Compact SUV,Audi Q3,2018,5.0,25517.55,45.13
+Compact SUV,Audi Q3,2017,6.0,24401.83,47.53
+Compact SUV,Audi Q3,2016,7.0,21686.38,53.37
+Compact SUV,Audi Q3,2015,8.0,20404.39,56.12
+Compact SUV,Audi Q3,2014,9.0,17995.44,61.3
+Compact SUV,Audi Q3,2013,10.0,16523.72,64.47
+Compact SUV,Audi Q3,2012,11.0,16776.18,63.93
+Compact SUV,BMW X1,2023,0.0,51224.57,0.0
+Compact SUV,BMW X1,2022,1.0,40612.36,20.72
+Compact SUV,BMW X1,2021,2.0,37711.88,26.38
+Compact SUV,BMW X1,2020,3.0,32591.75,36.37
+Compact SUV,BMW X1,2019,4.0,26844.21,47.6
+Compact SUV,BMW X1,2018,5.0,25900.81,49.44
+Compact SUV,BMW X1,2017,6.0,23402.44,54.31
+Compact SUV,BMW X1,2016,7.0,22183.27,56.69
+Compact SUV,BMW X1,2015,8.0,17759.6,65.33
+Compact SUV,BMW X1,2014,9.0,14854.08,71.0
+Compact SUV,BMW X1,2013,10.0,15287.18,70.16
+Compact SUV,BMW X1,2012,11.0,12939.92,74.74
+Compact SUV,Mercedes-Benz GLA 200,2023,0.0,48135.84,0.0
+Compact SUV,Mercedes-Benz GLA 200,2022,1.0,46721.51,2.94
+Compact SUV,Mercedes-Benz GLA 200,2021,2.0,39879.74,17.15
+Compact SUV,Mercedes-Benz GLA 200,2020,3.0,36577.95,24.01
+Compact SUV,Mercedes-Benz GLA 200,2019,4.0,27816.93,42.21
+Compact SUV,Mercedes-Benz GLA 200,2018,5.0,26301.9,45.36
+Compact SUV,Mercedes-Benz GLA 200,2017,6.0,24965.95,48.13
+Compact SUV,Mercedes-Benz GLA 200,2016,7.0,22905.56,52.41
+Compact SUV,Mercedes-Benz GLA 200,2015,8.0,21743.05,54.83
+Compact SUV,Mercedes-Benz GLA 200,2014,9.0,19923.57,58.61
+Compact SUV,Volkswagen Tiguan,2023,0.0,52510.27,0.0
+Compact SUV,Volkswagen Tiguan,2022,1.0,44752.26,14.77
+Compact SUV,Volkswagen Tiguan,2021,2.0,38302.96,27.06
+Compact SUV,Volkswagen Tiguan,2020,3.0,31946.97,39.16
+Compact SUV,Volkswagen Tiguan,2019,4.0,28763.24,45.22
+Compact SUV,Volkswagen Tiguan,2018,5.0,26782.7,49.0
+Compact SUV,Volkswagen Tiguan,2017,6.0,24873.19,52.63
+Compact SUV,Volkswagen Tiguan,2016,7.0,20694.6,60.59
+Compact SUV,Volkswagen Tiguan,2015,8.0,16894.08,67.83
+Compact SUV,Volkswagen Tiguan,2014,9.0,15762.17,69.98
+Compact SUV,Volkswagen Tiguan,2013,10.0,14955.73,71.52
+Compact SUV,Volkswagen Tiguan,2012,11.0,13350.81,74.57
+Large family car,Audi A5,2023,0.0,59202.76,0.0
+Large family car,Audi A5,2022,1.0,46157.05,22.04
+Large family car,Audi A5,2021,2.0,42563.22,28.11
+Large family car,Audi A5,2020,3.0,38237.28,35.41
+Large family car,Audi A5,2019,4.0,32304.97,45.43
+Large family car,Audi A5,2018,5.0,30430.04,48.6
+Large family car,Audi A5,2017,6.0,27680.17,53.25
+Large family car,Audi A5,2016,7.0,23452.79,60.39
+Large family car,Audi A5,2015,8.0,21853.83,63.09
+Large family car,Audi A5,2014,9.0,20307.13,65.7
+Large family car,Audi A5,2013,10.0,17575.26,70.31
+Large family car,Audi A5,2012,11.0,16265.1,72.53
+Large family car,BMW 320,2023,0.0,52084.46,0.0
+Large family car,BMW 320,2022,1.0,40404.37,22.43
+Large family car,BMW 320,2021,2.0,34292.89,34.16
+Large family car,BMW 320,2020,3.0,33165.68,36.32
+Large family car,BMW 320,2019,4.0,29563.71,43.24
+Large family car,BMW 320,2018,5.0,24337.64,53.27
+Large family car,BMW 320,2017,6.0,21323.47,59.06
+Large family car,BMW 320,2016,7.0,19765.38,62.05
+Large family car,BMW 320,2015,8.0,16642.67,68.05
+Large family car,BMW 320,2014,9.0,16861.08,67.63
+Large family car,BMW 320,2013,10.0,15142.28,70.93
+Large family car,BMW 320,2012,11.0,13205.68,74.65
+Large family car,Mercedes-Benz C 200,2023,0.0,53320.7,0.0
+Large family car,Mercedes-Benz C 200,2022,1.0,46488.97,12.81
+Large family car,Mercedes-Benz C 200,2021,2.0,38323.72,28.13
+Large family car,Mercedes-Benz C 200,2020,3.0,32518.53,39.01
+Large family car,Mercedes-Benz C 200,2019,4.0,27878.57,47.72
+Large family car,Mercedes-Benz C 200,2018,5.0,28494.66,46.56
+Large family car,Mercedes-Benz C 200,2017,6.0,25199.08,52.74
+Large family car,Mercedes-Benz C 200,2016,7.0,21428.29,59.81
+Large family car,Mercedes-Benz C 200,2015,8.0,21151.09,60.33
+Large family car,Mercedes-Benz C 200,2014,9.0,22062.26,58.62
+Large family car,Mercedes-Benz C 200,2013,10.0,13517.57,74.65
+Large family car,Mercedes-Benz C 200,2012,11.0,12150.41,77.21
+Large family car,Volkswagen Passat Variant,2023,0.0,50990.08,0.0
+Large family car,Volkswagen Passat Variant,2022,1.0,41958.42,17.71
+Large family car,Volkswagen Passat Variant,2021,2.0,32806.94,35.66
+Large family car,Volkswagen Passat Variant,2020,3.0,30484.57,40.21
+Large family car,Volkswagen Passat Variant,2019,4.0,27060.86,46.93
+Large family car,Volkswagen Passat Variant,2018,5.0,23250.08,54.4
+Large family car,Volkswagen Passat Variant,2017,6.0,20988.18,58.84
+Large family car,Volkswagen Passat Variant,2016,7.0,18542.05,63.64
+Large family car,Volkswagen Passat Variant,2015,8.0,16543.33,67.56
+Large family car,Volkswagen Passat Variant,2014,9.0,13693.53,73.14
+Large family car,Volkswagen Passat Variant,2013,10.0,11413.54,77.62
+Large family car,Volkswagen Passat Variant,2012,11.0,10722.46,78.97
+Small car,Audi A1,2023,0.0,30269.49,0.0
+Small car,Audi A1,2022,1.0,26136.86,13.65
+Small car,Audi A1,2021,2.0,20232.76,33.16
+Small car,Audi A1,2020,3.0,23842.58,21.23
+Small car,Audi A1,2019,4.0,22061.18,27.12
+Small car,Audi A1,2018,5.0,17798.55,41.2
+Small car,Audi A1,2017,6.0,16896.2,44.18
+Small car,Audi A1,2016,7.0,15228.56,49.69
+Small car,Audi A1,2015,8.0,14164.13,53.21
+Small car,Audi A1,2014,9.0,13101.4,56.72
+Small car,Audi A1,2013,10.0,11327.49,62.58
+Small car,Audi A1,2012,11.0,9972.21,67.06
+Small car,BMW i3,2022,1.0,35251.03,0.0
+Small car,BMW i3,2021,2.0,31106.56,11.76
+Small car,BMW i3,2020,3.0,29159.45,17.28
+Small car,BMW i3,2019,4.0,28073.07,20.36
+Small car,BMW i3,2018,5.0,23735.69,32.67
+Small car,BMW i3,2017,6.0,23092.42,34.49
+Small car,Volkswagen Polo GTI,2023,0.0,34670.04,0.0
+Small car,Volkswagen Polo GTI,2022,1.0,32675.0,5.75
+Small car,Volkswagen Polo GTI,2021,2.0,24995.29,27.91
+Small car,Volkswagen Polo GTI,2020,3.0,21725.37,37.34
+Small car,Volkswagen Polo GTI,2019,4.0,21632.6,37.6
+Small car,Volkswagen Polo GTI,2018,5.0,19462.0,43.87
+Small car,smart forFour,2022,1.0,20543.77,0.0
+Small car,smart forFour,2021,2.0,17446.64,15.08
+Small car,smart forFour,2020,3.0,16608.78,19.15
+Small car,smart forFour,2019,4.0,13820.34,32.73
+Small car,smart forFour,2018,5.0,13092.44,36.27
+Small car,smart forFour,2017,6.0,12547.64,38.92
+Small car,smart forFour,2016,7.0,10967.26,46.62
+Small car,smart forFour,2015,8.0,9225.76,55.09
+Small family car,Audi A3,2023,0.0,38096.37,0.0
+Small family car,Audi A3,2022,1.0,34447.86,9.58
+Small family car,Audi A3,2021,2.0,30941.97,18.78
+Small family car,Audi A3,2020,3.0,25505.48,33.05
+Small family car,Audi A3,2019,4.0,22748.88,40.29
+Small family car,Audi A3,2018,5.0,21243.51,44.24
+Small family car,Audi A3,2017,6.0,20709.81,45.64
+Small family car,Audi A3,2016,7.0,17697.04,53.55
+Small family car,Audi A3,2015,8.0,16010.91,57.97
+Small family car,Audi A3,2014,9.0,15596.9,59.06
+Small family car,Audi A3,2013,10.0,13837.07,63.68
+Small family car,Audi A3,2012,11.0,10671.71,71.99
+Small family car,BMW 120,2023,0.0,44634.5,0.0
+Small family car,BMW 120,2022,1.0,36588.84,18.03
+Small family car,BMW 120,2021,2.0,33223.49,25.57
+Small family car,BMW 120,2020,3.0,30701.68,31.22
+Small family car,BMW 120,2019,4.0,24490.4,45.13
+Small family car,BMW 120,2018,5.0,22047.89,50.6
+Small family car,BMW 120,2017,6.0,21227.56,52.44
+Small family car,BMW 120,2016,7.0,18711.64,58.08
+Small family car,BMW 120,2015,8.0,16786.94,62.39
+Small family car,BMW 120,2014,9.0,13856.4,68.96
+Small family car,BMW 120,2013,10.0,13239.22,70.34
+Small family car,BMW 120,2012,11.0,12143.46,72.79
+Small family car,Mercedes-Benz A 200,2023,0.0,43193.73,0.0
+Small family car,Mercedes-Benz A 200,2022,1.0,38393.22,11.11
+Small family car,Mercedes-Benz A 200,2021,2.0,31027.54,28.17
+Small family car,Mercedes-Benz A 200,2020,3.0,28926.43,33.03
+Small family car,Mercedes-Benz A 200,2019,4.0,27195.75,37.04
+Small family car,Mercedes-Benz A 200,2018,5.0,23299.85,46.06
+Small family car,Mercedes-Benz A 200,2017,6.0,21584.2,50.03
+Small family car,Mercedes-Benz A 200,2016,7.0,19556.12,54.72
+Small family car,Mercedes-Benz A 200,2015,8.0,18099.86,58.1
+Small family car,Mercedes-Benz A 200,2014,9.0,17493.38,59.5
+Small family car,Mercedes-Benz A 200,2013,10.0,14582.2,66.24
+Small family car,Volkswagen Golf GTI,2023,0.0,44258.9,0.0
+Small family car,Volkswagen Golf GTI,2022,1.0,39603.61,10.52
+Small family car,Volkswagen Golf GTI,2021,2.0,36664.56,17.16
+Small family car,Volkswagen Golf GTI,2020,3.0,30928.86,30.12
+Small family car,Volkswagen Golf GTI,2019,4.0,28543.13,35.51
+Small family car,Volkswagen Golf GTI,2018,5.0,25950.55,41.37
+Small family car,Volkswagen Golf GTI,2017,6.0,24295.52,45.11
+Small family car,Volkswagen Golf GTI,2016,7.0,23942.0,45.9
+Small family car,Volkswagen Golf GTI,2015,8.0,19581.64,55.76
+Small family car,Volkswagen Golf GTI,2014,9.0,18883.06,57.33
+Small family car,Volkswagen Golf GTI,2013,10.0,15433.33,65.13
+Small family car,Volkswagen Golf GTI,2012,11.0,14999.67,66.11
