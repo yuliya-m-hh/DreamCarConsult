@@ -1,5 +1,5 @@
 # DreamCarConsult
-**Manual: how a Data Scientist buys a car?**
+**How a Data Scientist buys a car?**
 
 **Project Core Points**:
 - Exploratative Analyses of used cars markets for Germany and UK -> **EDA**
