@@ -5,3 +5,6 @@
 - Loss in value: compare models within 1 make - mirza
 - Comparative EDA: uk vs germany - alex
 
+**Abstract**:
+- Analyse car prices for German and UK markets.
+- Determine value depreciation of cars. Model car prices value depreciation for future.
