@@ -42,7 +42,7 @@
 |displacement|Engine Size|in cm3|
 |drive_type|Types of drivetrain|Front,Rear, Four wheel drive(four w.d.)|
 |link|link of car description||
-|price|Price of car||
+|price|price of car on Autoscout24.de| in EUR, €|
 
 ## Requirements Setup
 pyenv with Python: 3.9.8
