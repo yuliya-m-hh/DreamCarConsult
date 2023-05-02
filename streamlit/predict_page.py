@@ -1,3 +1,4 @@
+import os
 import streamlit as st
 import pickle
 import pandas as pd
@@ -8,7 +9,9 @@ import matplotlib.pyplot as plt
 ########################################
 # Function load mL
 def load_model():
-  with open ('pkl/model_rf.pkl', 'rb') as file:
+  path = os.path.dirname(__file__)
+  model_file = path+'/pkl/model_rf.pkl'
+  with open (model_file, 'rb') as file:
     data = pickle.load(file)
   return data
 
