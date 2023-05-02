@@ -142,15 +142,19 @@ def show_predict_page():
     # show car logo
     imageLocation = st.empty()
     if make == 'Mercedes-Benz':
+      path = os.path.dirname(__file__)
       mb_logo_file = path+'/images/m.png'
       imageLocation.image(mb_logo_file, width=100)
     elif make == 'Audi':
+      path = os.path.dirname(__file__)
       au_logo_file = path+'/images/au.png'
       imageLocation.image(au_logo_file, width=100)
     elif make == 'BMW':
+      path = os.path.dirname(__file__)
       bmw_logo_file = path+'/images/b.png'
       imageLocation.image(bmw_logo_file, width=100)
     elif make == 'Volkswagen':
+      path = os.path.dirname(__file__)
       vw_logo_file = path+'/images/v.png'
       imageLocation.image(vw_logo_file, width=100)
     else:
