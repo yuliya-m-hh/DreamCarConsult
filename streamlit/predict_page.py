@@ -138,17 +138,21 @@ def show_predict_page():
   # col2 - selections summary
   with col2:
     st.subheader("Your selections:")
-    
+    path = os.path.dirname(__file__)
     # show car logo
     imageLocation = st.empty()
     if make == 'Mercedes-Benz':
-      imageLocation.image('images/m.png', width=100)
+      mb_logo_file = path+'/images/m.png'
+      imageLocation.image(mb_logo_file, width=100)
     elif make == 'Audi':
-      imageLocation.image('images/au.png', width=100)
+      au_logo_file = path+'/images/au.png'
+      imageLocation.image(au_logo_file, width=100)
     elif make == 'BMW':
-      imageLocation.image('images/b.png', width=100)
+      bmw_logo_file = path+'/images/b.png'
+      imageLocation.image(bmw_logo_file, width=100)
     elif make == 'Volkswagen':
-      imageLocation.image('images/v.png', width=100)
+      vw_logo_file = path+'/images/v.png'
+      imageLocation.image(vw_logo_file, width=100)
     else:
       imageLocation = st.empty()
     
