@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 ########################################
 # Function load mL
 def load_model():
-  with open ('saved_rf.pkl', 'rb') as file:
+  with open ('pkl/model_rf.pkl', 'rb') as file:
     data = pickle.load(file)
   return data
 
