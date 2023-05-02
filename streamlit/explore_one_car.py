@@ -136,7 +136,7 @@ def show_explore_page_one_car():
     # KPIs 3 columns
     col1, col2, col3, col4 = st.columns(4)
     col1.metric("Nr.of cars", f"# {total_cars}")
-    col2.metric("Ration of set", f"% {percentof_total_cars}")
+    col2.metric("Ratio of set", f"% {percentof_total_cars}")
     col3.metric("Avg. price new car", f"€ {average_new_price}")
     col4.metric("Max loss", f"% {max_loss}")
     
