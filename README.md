@@ -2,7 +2,7 @@
 **How a Data Scientist buys a car?**
 
 **Project Core Points**:
-- Exploratative Analyses of used cars markets for Germany and UK -> **EDA**
+- Explorative Analyses of used cars markets for Germany and UK -> **EDA**
 - Evaluate the current value of a used car -> **Price modelling (only DE)**
 - Predict car value depreciation for future -> **Prediction modelling (only DE)**
 
