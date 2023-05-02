@@ -1,4 +1,5 @@
 # Imports
+import os
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -24,7 +25,9 @@ df_agg = get_df_agg()
 
 #DF deprication
 def load_data():
-    df_dep = pd.read_csv('data/df_dep.csv')
+    path = os.path.dirname(__file__)
+    df_dep_file = path+'/data/df_dep.csv'
+    df_dep = pd.read_csv(df_dep_file)
     return df_dep
 
 df_dep = load_data()
