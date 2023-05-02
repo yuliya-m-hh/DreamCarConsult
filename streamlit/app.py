@@ -3,7 +3,6 @@ import streamlit as st
 from predict_page import show_predict_page
 from explore_all_cars import show_explore_page_all_cars
 from explore_one_car import show_explore_page_one_car
-#from predict_page_full import show_predict_page_full
 
 #########################################
 # header
