@@ -17,7 +17,9 @@ with head1:
 
 #########################################
 # Sidebar
-st.sidebar.image("images/Logo.png", use_column_width=True)
+path = os.path.dirname(__file__)
+logo_file = path+'/images/Logo.png'
+st.sidebar.image(logo_file, use_column_width=True)
 st.sidebar.subheader("Explore or predict used cars' prices")
 page = st.sidebar.radio("Select Page:",("Estimate current value", "Explore all cars", "Explore individual car"))
 
