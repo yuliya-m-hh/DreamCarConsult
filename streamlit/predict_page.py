@@ -6,6 +6,8 @@ import numpy as np
 from datetime import datetime
 import matplotlib.pyplot as plt
 
+st.set_page_config(page_title="Car Prices Predict & Explore", page_icon = ":bar_chart:", layout="wide")
+
 ########################################
 # Function load mL
 def load_model():
