@@ -34,7 +34,7 @@ df_dep = load_data()
 
 ########################################
 #calculate loss value and create class-DFs
-df_grouped = df.groupby(['car_class', 'car', 'registration', 'car_age']).mean()['price'].round(2).reset_index()
+df_grouped = df.groupby(['car_class', 'car', 'registration', 'car_age'])['price'].mean().round(2).reset_index()
 df_grouped['loss'] = df_grouped['price']
 def split_all_cars(df, car):
     return df_grouped[df_grouped['car'] == car].sort_values(['registration'], ascending = False)
