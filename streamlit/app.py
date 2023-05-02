@@ -1,4 +1,5 @@
 # Imports
+import os
 import streamlit as st
 from predict_page import show_predict_page
 from explore_all_cars import show_explore_page_all_cars
@@ -10,7 +11,9 @@ head1, head2 = st.columns((5,1))
 
 with head1:
   st.title("Dashboard to Explore and Predict Car Prices")
-  st.image("images/car-classes.png")
+  path = os.path.dirname(__file__)
+  image_file = path+'/images/car-classes.png'
+  st.image(image_file)
 
 #########################################
 # Sidebar
