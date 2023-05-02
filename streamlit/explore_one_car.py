@@ -110,7 +110,7 @@ def show_explore_page_one_car():
     ########################################
     # Sidebar
     #car-filter
-    car_filter = st.sidebar.selectbox(
+    car_filter = st.selectbox(
         "Select the car model:",
         options = df.car.sort_values().unique(),
     )
