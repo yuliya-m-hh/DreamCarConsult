@@ -1,9 +1,11 @@
 ![DreamCarConsult](https://github.com/yuliya-m-hh/DreamCarConsult/blob/main/DreamCarLogo.001.jpeg)
 
-# [Online Dashboard App](https://yuliya-m-hh-dreamcarconsult-streamlitapp-jr65kt.streamlit.app/)
+**[Online Dashboard App](https://yuliya-m-hh-dreamcarconsult-streamlitapp-jr65kt.streamlit.app/)**
 
-**Project Core Points**:
+##Project Core Points
+
 **Manual: how a Data Scientist buys a car?**
+
 - Exploratative Analyses of used cars markets for Germany and UK -> **EDA**
 - Evaluate the current value of a used car -> **Price modelling (only DE)**
 - Predict car value depreciation for future -> **Prediction modelling (only DE)**
