@@ -156,7 +156,8 @@ def show_explore_page_all_cars():
    #########################################
     #tabs Prices and Losses
     tab1, tab2, tab3, tab4 = st.tabs(["Small Car", "Small family car", "Large family car", "Compact SUV"])
-    
+    st.subheader("Price loss within Car Classes")
+
     with tab1:
         fig_smallCar_loss = px.line(smallCar, x="car_age", y="loss", text="loss", markers=True, color="car", color_discrete_sequence=('#FF6D43', '#00135D', '#1D8DB3', '#FFA84F'))
         fig_smallCar_loss.update_traces(textposition="bottom right")
@@ -182,3 +183,39 @@ def show_explore_page_all_cars():
         fig_SUV_loss.update_traces(textposition="top left")
         fig_SUV_loss.update_layout(title='Compact SUV Price Loss, %', xaxis_title='age', yaxis_title='loss', xaxis = dict(tickmode = 'array', tickvals = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]))
         st.plotly_chart(fig_SUV_loss, use_container_width=True)
+
+    st.divider()
+    #########################################
+    #tabs Prices and Losses for same make dif Models
+    tab1, tab2, tab3, tab4 = st.tabs(["Volkswagen", "Mercedes-Benz", "BMW", "Audi"])
+    st.subheader("Price loss within Car Make")
+
+    df_v = df_loss[df_loss['car'].str.contains('^Volkswagen.*')]
+    df_mb = df_loss[df_loss['car'].str.contains('^Mercedes-Benz.*')]
+    df_bmw = df_loss[df_loss['car'].str.contains('^BMW.*')]
+    df_audi = df_loss[df_loss['car'].str.contains('^Audi.*')]
+
+    with tab1:
+        fig_df_v = px.line(df_v, x="car_age", y="loss", text="loss", markers=True, color="car", color_discrete_sequence=('#FF6D43', '#00135D', '#1D8DB3', '#FFA84F'))
+        fig_df_v.update_traces(textposition="bottom right")
+        fig_df_v.update_layout(title='Volkswagen Models Price Loss, %', xaxis_title='age', yaxis_title='loss', xaxis = dict(tickmode = 'array', tickvals = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]))
+        st.plotly_chart(fig_df_v, use_container_width=True)
+
+
+    with tab2:
+        fig_df_mb = px.line(df_mb, x="car_age", y="loss", text="loss", markers=True, color="car", color_discrete_sequence=('#FF6D43', '#00135D', '#1D8DB3', '#FFA84F'))
+        fig_df_mb.update_traces(textposition="bottom right")
+        fig_df_mb.update_layout(title='Mercedes-Benz Models Price Loss, %', xaxis_title='age', yaxis_title='loss', xaxis = dict(tickmode = 'array', tickvals = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]))
+        st.plotly_chart(fig_df_mb, use_container_width=True)
+    
+    with tab3:
+        fig_df_bmw = px.line(df_bmw, x="car_age", y="loss", text="loss", markers=True, color="car", color_discrete_sequence=('#FF6D43', '#00135D', '#1D8DB3', '#FFA84F'))
+        fig_df_bmw.update_traces(textposition="bottom right")
+        fig_df_bmw.update_layout(title='BMW Models Price Loss, %', xaxis_title='age', yaxis_title='loss', xaxis = dict(tickmode = 'array', tickvals = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]))
+        st.plotly_chart(fig_df_bmw, use_container_width=True)
+
+    with tab4:
+        fig_df_audi = px.line(df_audi, x="car_age", y="loss", text="loss", markers=True, color="car", color_discrete_sequence=('#FF6D43', '#00135D', '#1D8DB3', '#FFA84F'))
+        fig_df_audi.update_traces(textposition="bottom right")
+        fig_df_audi.update_layout(title='Audi Models Price Loss, %', xaxis_title='age', yaxis_title='loss', xaxis = dict(tickmode = 'array', tickvals = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]))
+        st.plotly_chart(fig_df_audi, use_container_width=True)
