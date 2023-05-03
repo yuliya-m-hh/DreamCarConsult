@@ -1,7 +1,7 @@
 # DreamCarConsult
 **Manual: how a Data Scientist buys a car?**
 
-Explore our [Online Dashboard App](https://yuliya-m-hh-dreamcarconsult-streamlitapp-jr65kt.streamlit.app/){:target="_blank"}
+Explore our [Online Dashboard App](https://yuliya-m-hh-dreamcarconsult-streamlitapp-jr65kt.streamlit.app/)
 
 **Project Core Points**:
 - Exploratative Analyses of used cars markets for Germany and UK -> **EDA**
