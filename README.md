@@ -1,8 +1,9 @@
 ![DreamCarConsult](https://github.com/yuliya-m-hh/DreamCarConsult/blob/main/DreamCarLogo.001.jpeg)
 
-**[Online Dashboard App](https://yuliya-m-hh-dreamcarconsult-streamlitapp-jr65kt.streamlit.app/)**
 
 ## Project Core Points
+
+Explore our **[Online Dashboard App](https://yuliya-m-hh-dreamcarconsult-streamlitapp-jr65kt.streamlit.app/)**
 
 **Manual: how a Data Scientist buys a car?**
 
