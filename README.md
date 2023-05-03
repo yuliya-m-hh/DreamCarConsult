@@ -2,7 +2,7 @@
 
 **[Online Dashboard App](https://yuliya-m-hh-dreamcarconsult-streamlitapp-jr65kt.streamlit.app/)**
 
-##Project Core Points
+## Project Core Points
 
 **Manual: how a Data Scientist buys a car?**
 
